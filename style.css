@@ -3,12 +3,12 @@ body{
   background-size: cover;
   font-family: 'Rozha One', serif;
 }
-.rowHeight{
-  height: 200px;
+.heading  {
+  height: 100px;
 }
 
 h1{
-  color:black;
+  color:#fff;
   font-size: :2.5em;
 }
 .bg{
@@ -19,6 +19,15 @@ h1{
   background-color: white;
   position: fixed;
   bottom: 0;
+}
+
+.project-icon{
+  height:200px;
+  max-width: 18rem;
+}
+
+.project-card{
+  background: rgba(0, 0, 0, 0.8);
 }
 .home-img{
   height:200px;
