@@ -1,0 +1,52 @@
+body{
+  background-color: #888;
+}
+.devider{
+  border: 3px solid white;
+}
+.main-wrapper{
+  min-height: 80px;
+}
+.rowHeight{
+  min-height: 400px;
+}
+.con-portfolio{
+  background-color: #aaa;
+  color: white;
+}
+.main{
+  padding: 20px;
+  padding-bottom: 0px
+}
+.job-title{
+  padding-left: 20px;
+}
+.img-fluid{
+  margin: auto;
+}
+.con{
+  background-color: #eee;
+  margin-top: 50px;
+}
+.timeline{
+  margin-top: 30px;
+}
+p.block{
+  font-size: 20px;
+}
+.custom-nav{
+  background-color: #722872 !important;
+  padding:20px;
+  border-color: #592059;
+  box-shadow: 0px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  text-align: right;
+}
+#navbarText{
+  text-transform: uppercase;
+}
+.nav-item{
+  float: right;
+}
+.active{
+  background-color: #ccc;
+}

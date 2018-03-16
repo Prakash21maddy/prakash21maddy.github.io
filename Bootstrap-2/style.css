@@ -8,3 +8,6 @@ body{
 .timeline{
   margin-top: 30px;
 }
+p.block{
+  font-size: 20px;
+}
